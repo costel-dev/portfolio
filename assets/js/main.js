@@ -19,7 +19,6 @@
           $('.nav-menu .active, .mobile-nav .active').removeClass('active');
           $(this).closest('li').addClass('active');
         }
-        console.log(hash);
         if (hash === '#header') {
           $('#header').removeClass('header-top');
           $("section").removeClass('section-show');

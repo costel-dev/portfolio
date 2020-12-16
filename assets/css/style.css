@@ -453,10 +453,25 @@ section .container {
 }
 
 /*--------------------------------------------------------------
+# Skills
+--------------------------------------------------------------*/
+.skills {
+  padding: 70px 0 30px 0;
+}
+.skills #png-cloud {
+  width: 100%;
+}
+@media only screen and (min-width: 990px) and (max-width: 1200px) {
+  #png-cloud {
+    margin-top: 60px;
+  }
+}
+
+/*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  padding: 70px 0 60px;
+  padding: 70px 0 30px 0;
 }
 
 .counts .count-box {
@@ -491,41 +506,6 @@ section .container {
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-}
-
-/*--------------------------------------------------------------
-# Skills
---------------------------------------------------------------*/
-.skills .progress {
-  height: 50px;
-  display: block;
-  background: none;
-}
-
-.skills .progress .skill {
-  padding: 10px 0;
-  margin: 0 0 6px 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: var(--primary-text-color);
-}
-
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-
-.skills .progress-bar-wrap {
-  background: rgba(255, 255, 255, 0.15);
-}
-
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: var(--decoration-color);
 }
 
 /*--------------------------------------------------------------
