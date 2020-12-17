@@ -2,112 +2,112 @@
 $(document).ready(function() {
 var entries = [
     {
-        image: "../../assets/img/vectorPL/code.png",
+        image: "../../assets/img/code.png",
         width: "50",
         height: "50",
         url: "https://aws.amazon.com/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/bootstrap.png",
+        image: "../../assets/img/bootstrap.png",
         width: "50",
         height: "50",
         url: "https://getbootstrap.com/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/css3.png",
+        image: "../../assets/img/css3.png",
         width: "50",
         height: "50",
         url: "https://developer.mozilla.org/en-US/docs/Web/CSS",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/firebase.png",
+        image: "../../assets/img/firebase.png",
         width: "50",
         height: "50",
         url: "https://firebase.google.com/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/git.png",
+        image: "../../assets/img/git.png",
         width: "50",
         height: "50",
         url: "https://git-scm.com/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/html5.png",
+        image: "../../assets/img/html5.png",
         width: "50",
         height: "50",
         url: "https://developer.mozilla.org/en-US/docs/Web/HTML",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/javascript.png",
+        image: "../../assets/img/javascript.png",
         width: "50",
         height: "50",
         url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/mongodb.png",
+        image: "../../assets/img/mongodb.png",
         width: "50",
         height: "50",
         url: "https://www.mongodb.com/1",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/mysql.png",
+        image: "../../assets/img/mysql.png",
         width: "50",
         height: "50",
         url: "https://www.mysql.com/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/nodejs.png",
+        image: "../../assets/img/nodejs.png",
         width: "50",
         height: "50",
         url: "https://nodejs.org/en/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/reactjs.png",
+        image: "../../assets/img/reactjs.png",
         width: "50",
         height: "50",
         url: "https://reactjs.org/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/vscode.png",
+        image: "../../assets/img/vscode.png",
         width: "50",
         height: "50",
         url: "https://code.visualstudio.com/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/vue.png",
+        image: "../../assets/img/vue.png",
         width: "50",
         height: "50",
         url: "https://vuejs.org/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/redux.png",
+        image: "../../assets/img/redux.png",
         width: "50",
         height: "50",
         url: "https://redux.js.org/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/slack.png",
+        image: "../../assets/img/slack.png",
         width: "50",
         height: "50",
         url: "https://slack.com/intl/en-de/",
         target: "_blank"
     },
     {
-        image: "../../assets/img/vectorPL/github.png",
+        image: "../../assets/img/github.png",
         width: "50",
         height: "50",
         url: "https://github.com/",
